@@ -4,6 +4,8 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 
 ![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
