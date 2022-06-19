@@ -4,7 +4,7 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 
 ![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
-<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width="200" height="400" />
+<img src="https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg" width="400" height="400" />
 
 
 ## 🌐Socials
