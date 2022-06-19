@@ -2,7 +2,6 @@
 # 💫About Me :
 Adept at receiving and monitoring data from multiple data streams, including SQL, Access, and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty.
 
-❮img src="![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg)" width="50" ❯
 ![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
 
