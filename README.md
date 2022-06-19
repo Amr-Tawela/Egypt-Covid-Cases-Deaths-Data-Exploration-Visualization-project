@@ -1,4 +1,4 @@
-                                                                          # Amr Tawela
+# Amr Tawela
 # 💫About Me :
 Adept at receiving and monitoring data from multiple data streams, including SQL, Access, and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty.
 
