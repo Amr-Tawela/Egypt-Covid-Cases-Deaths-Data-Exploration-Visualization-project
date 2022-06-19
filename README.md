@@ -1,6 +1,7 @@
 # Amr Tawela
 # 💫About Me :
 Adept at receiving and monitoring data from multiple data streams, including SQL, Access, and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty.
+![alt text]([http://url/to/img.png](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg))
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
@@ -11,7 +12,7 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 ![](https://github-readme-stats.vercel.app/api?username=Amr-Tawela&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Amr-Tawela&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amr-Tawela&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg]
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Amr-Tawela&icon=0&color=0)](https://visitcount.itsvg.in)
