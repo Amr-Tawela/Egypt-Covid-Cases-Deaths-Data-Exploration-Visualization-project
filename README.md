@@ -16,7 +16,8 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 # Portfolio projects :
-https://github.com/Amr-Tawela/Amr-Tawela.github.io/blob/04d3e67e8bce63067c6539dfeacafc66ecef4bd6/covidcase.sql
+Covid Cases [![CovidCases](https://img.shields.io/twitter/url?color=yellow&label=Power%20BI&logo=iosjldfl&logoColor=dsfsfd&style=plastic&url=https%3A%2F%2Fpowerbi.microsoft.com%2Fen-us%2F)]([https://powerbi.microsoft.com/en-us/](https://github.com/Amr-Tawela/Amr-Tawela.github.io/blob/04d3e67e8bce63067c6539dfeacafc66ecef4bd6/covidcase.sql)) 
+
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=Amr-Tawela&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
