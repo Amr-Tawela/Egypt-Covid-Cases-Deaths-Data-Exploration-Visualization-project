@@ -2,9 +2,9 @@
 # 💫About Me :
 Adept at receiving and monitoring data from multiple data streams, including SQL, Access, and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty.
 
-![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/05/luke-chesser-JKUTrJ4vK00-unsplash.jpg)
 
-<img src="https://imgs.developpaper.com/imgs/3589097457-619f464ee668a_fix732.png" width="600" height="500" />
+
+<img src="Photo by Atypeek Dgn from Pexels: https://www.pexels.com/photo/coronavirus-dashboard-with-map-and-statistic-6366444/" width="600" height="500" />
 
 
 ## 🌐Socials
