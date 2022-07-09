@@ -3,10 +3,9 @@
 # 💫About Me :
 Adept at  collecting, organizing, extrapolating, interpreting, and reporting data to get useful insights . Using SQL and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty. 
 
-![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 width="50")
 
 # 🌐Socials
-<a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="25" alt="Linkedin Logo Png Available In Different Size" /></a>
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
 
 # 💻Tech Stack
