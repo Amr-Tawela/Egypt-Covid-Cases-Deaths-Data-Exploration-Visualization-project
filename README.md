@@ -6,7 +6,7 @@ Adept at  collecting, organizing, extrapolating, interpreting, and reporting dat
 ![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # 🌐Socials
-[!](<a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="350" alt="Linkedin Logo Png Available In Different Size" /></a>)
+(<a href="https://www.freeiconspng.com/img/2026" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="350" alt="Linkedin Logo Png Available In Different Size" /></a>)
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
 
 # 💻Tech Stack
