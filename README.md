@@ -14,6 +14,7 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 
 # 📈Portfolio projects 
 [Covid Cases](https://github.com/Amr-Tawela/Amr-Tawela.github.io/blob/93808f1f8058320236ece4ed118a33aefa139899/covidcase.sql)
+[Airbnb Guidance for Seatle Appartments Owners](https://public.tableau.com/views/Book1_16573971847890/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 
 ---
