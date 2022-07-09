@@ -3,7 +3,7 @@
 # 💫About Me :
 Adept at  collecting, organizing, extrapolating, interpreting, and reporting data to get useful insights . Using SQL and Excel data sources. Adept at working independently and collaboratively on projects and committed to achieving visual innovation and beauty. 
 
-![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 width="50")
+![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1) width="50"
 
 # 🌐Socials
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
