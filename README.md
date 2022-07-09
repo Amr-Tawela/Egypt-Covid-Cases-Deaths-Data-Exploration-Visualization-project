@@ -4,7 +4,7 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 
 
 
-![This is an image](https://www.pexels.com/photo/coronavirus-dashboard-with-map-and-statistic-6366444/)
+![This is an image](https://images.pexels.com/photos/4162942/pexels-photo-4162942.jpeg)
 
 
 ## 🌐Socials
