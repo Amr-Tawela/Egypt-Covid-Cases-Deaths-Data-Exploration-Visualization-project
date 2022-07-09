@@ -6,8 +6,8 @@ Adept at receiving and monitoring data from multiple data streams, including SQL
 ![This is an image](https://images.pexels.com/photos/669621/pexels-photo-669621.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 # 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
-[![PoweBI](https://img.shields.io/twitter/url?color=yellow&label=Power%20BI&logo=iosjldfl&logoColor=dsfsfd&style=plastic&url=https%3A%2F%2Fpowerbi.microsoft.com%2Fen-us%2F)](https://powerbi.microsoft.com/en-us/) 
+[![LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/amr-tawela/) 
+[![PoweBI](https://powerbi.microsoft.com/en-us/) 
 
 # 💻Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
