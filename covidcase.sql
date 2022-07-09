@@ -1,8 +1,8 @@
--- SELECT * 
---   FROM coviddeaths 
+SELECT * 
+  FROM coviddeaths 
 
--- SELECT * 
---   FROM covidvaccinations 
+SELECT * 
+  FROM covidvaccinations 
 
 -- (select data that we are going to be using)
 SELECT location , date , total_cases , new_cases , total_deaths, population 
@@ -37,7 +37,7 @@ SELECT location ,MAX(cases_percentage)
  GROUP BY location 
  ORDER BY 2 DESC NULLS LAST
  
--- (SHOWING COUNTRIES WITH HIGHEST DEATH COUNT PER POPULATION )
+-- (showing countries with highest death count per population) 
 WITH cte2 AS 
 (
 SELECT location , continent , date , total_deaths::INT , population , 
@@ -69,14 +69,14 @@ SELECT location  , MAX(total_cases)
  GROUP BY location 
  ORDER BY 2 DESC
 
--- (Showing continents with the highest death count per population) 
+-- (showing continents with the highest death count per population) 
 SELECT continent , MAX(total_deaths::integer) 
   FROM coviddeaths
  WHERE continent IS NOT NULL AND (location NOT IN ('World','International'))
  GROUP BY continent 
  ORDER BY 2 DESC;
 
--- (Global numbers)
+-- (global numbers)
 SELECT SUM(new_cases::INTEGER) new_cases, SUM(new_deaths::INTEGER) new_deaths,
        (SUM(new_deaths::REAL)/SUM(new_cases::REAL))*100 death_percentage
   FROM coviddeaths 
@@ -93,7 +93,7 @@ SELECT cd.continent , cd.location , cd.date , cd.population , cv.new_vaccination
  WHERE cd.continent IS NOT NULL
  ORDER BY 2 , 3 
 
--- (USE CTE) 
+-- (using cte) 
 WITH cte (continent,loaction , date , population ,new_vaccinations, rolling_people_vaccinated) AS 
 (
 SELECT cd.continent , cd.location , cd.date , cd.population , cv.new_vaccinations,
@@ -134,7 +134,7 @@ SELECT cd.continent , cd.location , cd.date , cd.population , cv.new_vaccination
 SELECT *
   FROM percentpopulationvaccinated
   
---(CREATE VIEW TO STORE DATE FOR LATER VISUALIZATIONS)
+--(create view to store data for later visualizations) 
 CREATE VIEW percentpopulationvaccinated AS
 SELECT SUM(new_cases::INTEGER) new_cases, SUM(new_deaths::INTEGER) new_deaths,
        (SUM(new_deaths::REAL)/SUM(new_cases::REAL))*100 death_percentage
